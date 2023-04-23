@@ -1,0 +1,12 @@
+апр. 23, 2023 10:30:43 AM com.company.Main main
+INFO: Запуск програмы
+апр. 23, 2023 10:30:46 AM com.company.Main main
+INFO: Было введенно коректное число: 4
+апр. 23, 2023 10:30:46 AM com.company.Main main
+INFO: Число 0 - -382838962
+апр. 23, 2023 10:30:46 AM com.company.Main main
+INFO: Число 1 - -1126582825
+апр. 23, 2023 10:30:46 AM com.company.Main main
+INFO: Число 2 - 2134993767
+апр. 23, 2023 10:30:46 AM com.company.Main main
+INFO: Число 3 - 325858440
